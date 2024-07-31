@@ -1,0 +1,18 @@
+ **by default data member in interface are public static final / mean constant
+ interface is used for pure abstraction --- by default public abstract
+ refrence can be created but not object ...class Test implements Demo
+
+
+*Assignment*
+create an class compartment to represent a rail coach. provide a abstract function notice in this class.
+Derive FirstClass, Ladies, General, Luggage classes from the compartment class. Override the notice function in 
+each of them to print notice suitable to the type of the compartment 
+	 * create a class TestCompartment. write main function to do the following
+	 * declare an array of compartment pointers of size 10,
+	 * create a compartment of a type as decided by a randomly generated integer in the range 1 to 4.
+	 * check the polymorphism behavior of the notice method.
+	 
+	 
+	 
+	 
+	 
